@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>
+index
+</title>
+</head>
+<body bgcolor=BLACK text=WHITE>
+<h1 align=center>FRONT DOOR REQUEST</h1>
+<TABLE BORDER=1 ALIGN=CENTER BORDERCOLOR=WHITE>
+<TR>
+<TH>@</TH>
+<TH>QUESTION</TH>
+<TH>RESPONSE</TH>
+</TR>
+<TR>
+<TD>1</TD>
+<TD>REQUEST DATE</TD>
+<TD><INPUT TYPE=TEXT NAME=T1 VALUE=""></TD>
+</TR>
+<TR>
+<TD>REQUESTOR INFORMATION</TD>
+</TR>
+<TR>
+<TD>2</TD>
+<TD>NAME</TD>
+<TD><INPUT TYPE=TEXT NAME=T1 VALUE=""></TD>
+</TR>
+<TD>3</TD>
+<TD>TITLE</TD>
+<TD><INPUT TYPE=TEXT NAME=T1 VALUE=""></TD>
+</TR>
+<TD>4</TD>
+<TD>REQUESTING INSTITUTE</TD>
+<TD><INPUT TYPE=TEXT NAME=T1 VALUE=""></TD>
+</TR>
+<TD>5</TD>
+<TD>EMAIL ADDRESS</TD>
+<TD><INPUT TYPE=TEXT NAME=T1 VALUE=""></TD>
+</TR>
+<TD>6</TD>
+<TD>PHONE NUMBER</TD>
+<TD><INPUT TYPE=TEXT NAME=T1 VALUE=""></TD>
+</TR>
+<TD>7</TD>
+<TD>CITY</TD>
+<TD><INPUT TYPE=TEXT NAME=T1 VALUE=""></TD>
+</TR>
+<TD>8</TD>
+<TD>STATE</TD>
+<TD><INPUT TYPE=TEXT NAME=T1 VALUE=""></TD>
+</TR>
+<TD>9</TD>
+<TD>ZIP CODE</TD>
+<TD><INPUT TYPE=TEXT NAME=T1 VALUE=""></TD>
+</TR>
+</TABLE><BR><BR>
+<h3 align=left>Every organization needs to keep up with the changing market conditions and rapid technological advancement.<br>
+To cater to this, TAG tech has this major function of initiating, managing, and delivering software projects that would <br>
+keep the organization aligned to its mission statement as well as keep up with the market trends and latest technologies.<br>
+ TAG tech implements the PRINCE2 & Agile project management methodology to manage its portfolio. <br><br>
+
+CLICK HERE <a href="*">Costing Sheet</a>
+</head>
+</html>
